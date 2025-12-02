@@ -30,4 +30,4 @@ O layout atual utiliza a organização padrão em blocos (colunas), o que consom
 
 ## 📸 Prévia do Projeto
 
-*(Aqui você pode colocar um printscreen do seu formulário ou um link para a página hospedada)*
+*https://www.linkedin.com/posts/wandovilar_desenvolvimentoweb-frontend-html-activity-7401421654389805056-aXfz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGFPFDwBqKr_Y0xtCLNt3o_RSR6WCNY2H1g*
